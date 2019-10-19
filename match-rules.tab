@@ -64,7 +64,6 @@ ADODB.Field error	0	gstest	Low	Firm
 An illegal character has been found in the statement	0	gstest	Low	Firm
 An unexpected token "END-OF-STATEMENT" was found	0	gstest	Low	Firm
 ASP.NET is configured to show verbose error messages	0	gstest	Low	Firm
-ASP.NET_SessionId	0	gstest	Low	Firm
 Can't connect to local	0	gstest	Low	Firm
 CLI Driver	0	gstest	Low	Firm
 Custom Error Message	0	gstest	Low	Firm
@@ -126,7 +125,6 @@ PHP Error	0	gstest	Low	Firm
 PHP Parse error	0	gstest	Low	Firm
 PHP Warning	0	gstest	Low	Firm
 PostgreSQL query failed: ERROR: parser: parse error	0	gstest	Low	Firm
-server error	0	gstest	Low	Firm
 server object error	0	gstest	Low	Firm
 SQL command not properly ended	0	gstest	Low	Firm
 SQL Server Driver	0	gstest	Low	Firm
