@@ -148,5 +148,6 @@ Warning: pg_connect	0	gstest	Low	Firm
 Warning: pg_connect(): Unable to connect to PostgreSQL server: FATAL	0	gstest	Low	Firm
 Warning: Supplied argument is not a valid File-Handle resource in	0	gstest	Low	Firm
 You have an error in your SQL syntax near	0	gstest	Low	Firm
-bin:x	1	Critical Error	High	Certain
-mail:x	1	Critical Error	High	Certain
+bin:x	0	gstest	High	Certain
+mail:x	0	gstest	High	Certain
+\/var\/spool\/uucp	0	gstest	High	Certain
